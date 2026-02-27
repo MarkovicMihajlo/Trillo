@@ -1,0 +1,23 @@
+{
+  "name": "trillo",
+  "version": "1.0.0",
+  "description": "trillo app",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass" : "sass sass/main.scss css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkovicMihajlo/Trillo.git"
+  },
+  "author": "Mihajlo Markovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkovicMihajlo/Trillo/issues"
+  },
+  "homepage": "https://github.com/MarkovicMihajlo/Trillo#readme",
+  "devDependencies": {
+    "sass": "^1.97.3"
+  }
+}
+
